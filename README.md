@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi I'm Theryx 👋
 
-<!--
-**Theryx/Theryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I'm a UI/UX designer and FrontEnd developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Fintech platform to help founders
+- 🌱 I’m currently learning Reactjs,TailwindCSS
+- 👯 I’m looking to collaborate on UI/UX design projects
+- 🤔 I’m looking for help with FrontEnd 😅
+- 💬 Ask me about Design
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/NTheryx
+[instagram]: https://www.instagram.com/ntheryx/
+[linkedin]: https://www.linkedin.com/in/ndoukentheryx/

@@ -11,11 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Design
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-🏡 [website][website] **|** 
+
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 

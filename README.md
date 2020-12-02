@@ -2,7 +2,7 @@
 
 ##I'm a UI/UX designer and FrontEnd developer
 
-Here are some ideas to get you started:
+Here are some fact about me:
 
 - 🔭 I’m currently working on Fintech platform to help founders
 - 🌱 I’m currently learning Reactjs,TailwindCSS

@@ -1,13 +1,13 @@
 ### Hi I'm Theryx 👋
 
 I'm a UI/UX designer and FrontEnd developer
+but truth is ,Im more of a designer than a FE dev
 
 Here are some fact about me:
 
-- 🔭 I’m currently working on Fintech platform to help founders
+- 🔭 I’m currently working on Fintech web app platform.
 - 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on UI/UX design projects
-- 🤔 I’m looking for help with Reactjs 
+- 👯 I’m looking to collaborate on anything I resonate to
 - 💬 Ask me about UI/UX design and tailwindcss,
 - 📫 How to reach me: ndouken@gmail.com
 - 😄 Pronouns: he/him

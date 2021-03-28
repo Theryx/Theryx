@@ -7,9 +7,9 @@ Here are some fact about me:
 
 - 🔭 I’m currently working on Fintech web app platform.
 - 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on anything I resonate to
-- 💬 Ask me about UI/UX design and tailwindcss,
-- 📫 How to reach me: ndouken@gmail.com
+- 👯 I’m looking to collaborate on anything I resonate to especially design related projects
+- 💬 You can ask me about my learning journey
+- 📫 How to reach me: ndouken@gmail.com/leave me a DM on twitter
 - 😄 Pronouns: he/him
 
 🐦 [twitter][twitter] **|** 

@@ -1,14 +1,14 @@
 ### Hi I'm Theryx 👋
 
-I'm a UI/UX designer and FrontEnd developer
-but truth is ,Im more of a designer than a FE dev
+I'm a UI/UX designer and developer
+but truth is ,I just learn coding just. to know how it works
 
 Here are some fact about me:
 
-- 🔭 I’m currently working on Fintech web app platform.
-- 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on anything I resonate to especially design related projects
-- 💬 You can ask me about my learning journey
+- 🔭 I’m currently working on Fintech mobile app platform.
+- 🌱 I’m currently learning React and SwiftUI
+- 👯 Im into open source and currently maintaining jobsik.cm
+- 💬 You can ask me about design and open source
 - 📫 How to reach me: ndouken@gmail.com/leave me a DM on twitter
 - 😄 Pronouns: he/him
 

@@ -1,7 +1,7 @@
 ### Hi I'm Theryx 👋
 
 I'm a UI/UX designer and developer
-but truth is ,I just learn coding just. to know how it works
+but truth is ,I just learn coding so that I can understand how things works
 
 Here are some fact about me:
 

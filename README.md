@@ -7,7 +7,7 @@ Here are some fact about me:
 
 - 🔭 I’m currently working on Fintech mobile app platform.
 - 🌱 I’m currently learning React and SwiftUI
-- 👯 Im into open source and currently maintaining jobsik.cm
+- 👯 Im into open source and currently maintaining jobsika.cm
 - 💬 You can ask me about design and open source
 - 📫 How to reach me: ndouken@gmail.com/leave me a DM on twitter
 - 😄 Pronouns: he/him

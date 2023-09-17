@@ -18,7 +18,7 @@ Here are some fact about me:
 📂 [Portfolio][Portfolio] **|** 
 
 
-[twitter]: https://twitter.com/NTheryx
+[x]: https://twitter.com/NTheryx
 [instagram]: https://www.instagram.com/ntheryx/
 [linkedin]: https://www.linkedin.com/in/ndoukentheryx/
 [portfolio]: https://sociable-success-507376.framer.app/

@@ -1,6 +1,6 @@
 ### Hi I'm Theryx 👋
 
-I'm an experienced designer and developer. 
+I'm a UX designer and developer. 
 The truth is, I learned coding to gain a deeper understanding of how things work under the hood
 
 Here are some fact about me:

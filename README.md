@@ -1,16 +1,16 @@
 ### Hi I'm Theryx 👋
 
-I'm a UI/UX designer and developer
-but truth is ,I just learn coding so that I can understand how things works
+I'm an experienced designer and developer. 
+The truth is, I learned coding to gain a deeper understanding of how things work under the hood
 
 Here are some fact about me:
 
-- 🔭 I’m currently working at a Fintech company.
-- 🌱 I’m currently learning React and SwiftUI
-- 👯 Im into open source and currently maintaining jobsika.cm
-- 💬 You can ask me about design and open source
-- 📫 How to reach me: ndouken@gmail.com/leave me a DM on twitter
-- 😄 Pronouns: he/him
+- 💳 I'm currently employed at a Fintech company.
+- 🌱 I know what is HTML, CSS, Javascript, SwiftUI, Python, Go, Docker, Swagger ...
+- 👯 Im into open source and currently maintain jobsika.cm
+- 💬 Feel free to ask me questions about design and open source.
+- 📫 You can reach me at ndouken@gmail.com or send me a DM on Mbuntu (@ntheryx).
+- ⌨️ I own a $200 keyboard
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 

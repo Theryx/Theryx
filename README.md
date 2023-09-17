@@ -10,7 +10,7 @@ Here are some fact about me:
 - 👯 Im into open source and currently maintain jobsika.cm
 - 💬 Feel free to ask me questions about design and open source.
 - 📫 You can reach me at ndouken@gmail.com or send me a DM on Mbuntu (@ntheryx).
-- ⌨️ I own a $200 keyboard
+- ⌨️ I own a $200 keyboard(My friend asked me if it can fly 😂😂😂)
 
 ✖️ [X][X] **|** 
 📷 [instagram][instagram] **|** 

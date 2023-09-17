@@ -12,7 +12,7 @@ Here are some fact about me:
 - 📫 You can reach me at ndouken@gmail.com or send me a DM on Mbuntu (@ntheryx).
 - ⌨️ I own a $200 keyboard
 
-🐦 [X][X] **|** 
+✖️ [X][X] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|** 
 📂 [Portfolio][Portfolio] **|** 
